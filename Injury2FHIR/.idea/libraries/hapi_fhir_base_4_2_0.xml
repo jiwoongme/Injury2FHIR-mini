@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="hapi-fhir-base-4.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/hapi-fhir-base-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/hapi-fhir-structures-dstu3-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/hapi-fhir-structures-r4-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/org.hl7.fhir.r4-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/org.hl7.fhir.utilities-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/slf4j-api-1.7.28.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/commons-text-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hapi-fhir-4.2.0-standard-distribution/lib/gson-2.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
